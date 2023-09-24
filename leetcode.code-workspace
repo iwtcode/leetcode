@@ -1,0 +1,104 @@
+{
+	"folders": [
+		{
+			"path": "0001. Two Sum"
+		},
+		{
+			"path": "0003. Longest Substring Without Repeating Characters"
+		},
+		{
+			"path": "0004. Median of Two Sorted Arrays"
+		},
+		{
+			"path": "0005. Longest Palindromic Substring"
+		},
+		{
+			"path": "0006. Zigzag Conversion"
+		},
+		{
+			"path": "0007. Reverse Integer"
+		},
+		{
+			"path": "0009. Palindrome Number"
+		},
+		{
+			"path": "0011. Container With Most Water"
+		},
+		{
+			"path": "0014. Longest Common Prefix"
+		},
+		{
+			"path": "0121. Best Time to Buy and Sell Stock"
+		},
+		{
+			"path": "0205. Isomorphic Strings"
+		},
+		{
+			"path": "0392. Is Subsequence"
+		},
+		{
+			"path": "0409. Longest Palindrome"
+		},
+		{
+			"path": "0412. Fizz Buzz"
+		},
+		{
+			"path": "0724. Find Pivot Index"
+		},
+		{
+			"path": "1480. Running Sum of 1d Array"
+		},
+		{
+			"path": "0035. Search Insert Position"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bit": "cpp",
+			"compare": "cpp",
+			"concepts": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"cwchar": "cpp",
+			"exception": "cpp",
+			"initializer_list": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"vector": "cpp",
+			"xmemory": "cpp",
+			"xstddef": "cpp",
+			"xtr1common": "cpp",
+			"xutility": "cpp",
+			"algorithm": "cpp",
+			"atomic": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"ctime": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"ostream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"system_error": "cpp",
+			"typeinfo": "cpp",
+			"xfacet": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xlocinfo": "cpp",
+			"xlocnum": "cpp",
+			"xstring": "cpp"
+		}
+	}
+}
